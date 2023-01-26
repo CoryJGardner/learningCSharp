@@ -1,4 +1,4 @@
 ---
-title: I'm learning C#!
+title: C# Language-learning Blog
 ---
 
